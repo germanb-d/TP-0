@@ -1,6 +1,7 @@
 # TP0 - Objetos Anémicos vs No Anémicos
 
 **Alumno**: Germán Fernando Beratz Dingebauer
+
 **Materia**: Orientación a Objetos II
 
 ## Descripción
