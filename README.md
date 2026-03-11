@@ -1,4 +1,4 @@
-# TP0 - Objetos Anémicos vs No Anémicos
+# TP0 - Objetos
 
 **Alumno**: Germán Fernando Beratz Dingebauer
 
